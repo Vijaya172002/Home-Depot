@@ -1,0 +1,93 @@
+/* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f6f9;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+  
+  h1, h2, p {
+    margin: 0;
+  }
+  
+  /* Homepage Container */
+  .homepage-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Header */
+  .homepage-header {
+    background-color: #2C3E50;
+    color: #ECF0F1;
+    padding: 40px 20px;
+  }
+  
+  .homepage-header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  .homepage-header p {
+    font-size: 18px;
+  }
+  
+  /* Features Section */
+  .features {
+    background-color: #ECF0F1;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px 0;
+  }
+  
+  .features h2 {
+    color: #2C3E50;
+  }
+  
+  .features ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .features li {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  /* Benefits Section */
+  .benefits {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 20px 0;
+  }
+  
+  .benefits h2 {
+    color: #2C3E50;
+  }
+  
+  .benefits ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .benefits li {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  /* Footer */
+  .homepage-footer {
+    background-color: #2C3E50;
+    color: #ECF0F1;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+  
+  .homepage-footer p {
+    font-size: 18px;
+    margin: 0;
+  }
+  
